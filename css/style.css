@@ -16,7 +16,7 @@ strong {
 
 .navbar {
   background: rgba(222, 0, 0, 0.62);
-};
+  height: 70px;
 }
 
 .btn {
@@ -66,18 +66,75 @@ strong {
 
 .info{
 	font-size: 28px;
+	color: gold;
 }
+
+.infoo{
+	font-size:28px;
+	color: gold;}
+
 
 .name{
 	font-size: 40px;
 }
 
-.fb{font-size: 20px;}
-
-.twitter{font-size: 20px;}
-
-.linkedin{font-size: 20px;}
-
-.spotify{font-size: 20px;}
+.icons{font-size: 20px;}
 
 .bio{font-size: 13px;}
+
+.bold{font-weight: bold;}
+
+.height{height: 150px;}
+
+.Leadership {
+	height: 290px;
+}
+
+.heightt{
+	height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.jumbotron {
+ background-image: url("../img/finance.jpg");
+ background-size: cover;
+ color: white;
+ height:100%;
+}
+
+.center {
+    margin-top: 20%;
+}
+
+.navbar-size1 {
+    font-size: 45px !important;
+    color: red;
+}
+
+.navbar-size {
+    font-size: 24px !important;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+.pull-right, .navbar-nav>li {
+    display: inline-block !important;
+    padding: 0 10px;
+}
