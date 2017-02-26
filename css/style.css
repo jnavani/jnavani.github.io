@@ -1,0 +1,83 @@
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: url(../img/Print1.jpg); 
+  background-repeat: repeat;
+  background-size: 20%;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: rgba(222, 0, 0, 0.62);
+};
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: black;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+
+.me {width: 100%}
+
+.left {
+	background-color: rgba(255, 243, 243, 0.92);
+	color: black;
+	font-size: 12px;
+}
+
+
+.info{
+	font-size: 28px;
+}
+
+.name{
+	font-size: 40px;
+}
+
+.fb{font-size: 20px;}
+
+.twitter{font-size: 20px;}
+
+.linkedin{font-size: 20px;}
+
+.spotify{font-size: 20px;}
+
+.bio{font-size: 13px;}
